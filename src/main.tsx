@@ -3,9 +3,9 @@ import ReactDOM from "react-dom/client";
 
 function App() {
   return (
-    <div style={{fontFamily:"Arial", padding:"40px"}}>
-      <h1>SmartTask AI</h1>
-      <p>Your app is deployed successfully 🚀</p>
+    <div style={{ padding: "40px", fontFamily: "Arial" }}>
+      <h1>SmartTask AI 🚀</h1>
+      <p>Your app is deployed successfully!</p>
     </div>
   );
 }
