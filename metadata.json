@@ -1,0 +1,5 @@
+{
+  "name": "SmartTask: AI-Powered Productivity",
+  "description": "A minimalist, high-performance task manager with AI insights, command palette, and cloud sync.",
+  "requestFramePermissions": ["notifications"]
+}
